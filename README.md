@@ -77,40 +77,6 @@ Ideal for IT professionals, students, and cloud/security learners looking to get
 
 ---
 
-## 📂 Project Structure
-
-devsecops-in-a-box/
-├── docker/
-│ ├── frontend/
-│ ├── backend/ # Flask app code + Dockerfile
-│ ├── database/
-│ └── tools/
-├── kubernetes/
-│ ├── *.yaml (deployments, services, PVC)
-├── terraform/
-│ └── local-k8s-config.tf
-├── .github/
-│ └── workflows/
-│ └── deploy.yaml
-├── README.md
-└── SECURITY.md
-
-yaml
-Copy
-Edit
-
----
-
-## 🚀 Getting Started
-
-> Setup instructions coming soon. Meanwhile, here’s what to expect:
-
-1. Boot your Lubuntu VM (VirtualBox)
-2. Clone this repo
-3. Run the Docker Compose environment
-4. Open your browser on host at `http://10.0.2.15:3000`
-5. Start hacking, testing, deploying, and monitoring 💥
-
 ---
 
 ## 📚 Learning Outcomes
@@ -136,5 +102,7 @@ MIT License — Feel free to use, fork, and contribute!
 ## 🙋‍♂️ Author
 
 **Ajeesh Mathai**  
+
 💼 Cloud Security & Infrastructure Engineer | Student | Cybersecurity | Hobbyists
+
 🌐 [GitHub](https://amathew0.github.io/CyberSec/) | [LinkedIn](https://www.linkedin.com/in/ajeesh-mathai3)
